@@ -1,2 +1,2 @@
 # novy-web
-  ahoj tohle je můj první web na githubu
+  ahoj světe tohle je můj první web na githubu
